@@ -53,3 +53,14 @@
 </a>
 
 </div>
+
+---
+
+<div align="center">
+
+## Get in Touch.
+
+<!-- 请将 your-email@example.com 替换为你的邮箱 -->
+📧 [Email](mailto:your-email@example.com)
+
+</div>
