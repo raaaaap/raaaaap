@@ -21,31 +21,7 @@
 
 <div align="center">
 
-## Learning Journey.
-
-> 学习路线 — 已完成 / 进行中 / 计划中
-
-<!-- ✅ = 已完成, 🔄 = 进行中, ⬜ = 计划中 -->
-<!-- 请根据实际情况修改以下内容 -->
-
-| 状态 | 技术 | 说明 |
-|:---:|------|------|
-| ✅ | Python | 基础语法、Web 开发 |
-| ✅ | Git | 版本控制 |
-| 🔄 | Go | 语法学习中 |
-| 🔄 | PyTorch | 深度学习入门 |
-| 🔄 | Docker | 容器化基础 |
-| ⬜ | 分布式系统 | 待学习 |
-| ⬜ | MLOps | 待学习 |
-| ⬜ | Kubernetes | 待学习 |
-
-</div>
-
----
-
-<div align="center">
-
-## By the Numbers.
+## GitHub Stats
 
 <a href="https://github.com/raaaaap">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raaaaap&show_icons=true&theme=default&hide_border=true&count_private=true" />
@@ -58,9 +34,8 @@
 
 <div align="center">
 
-## Get in Touch.
+## Contact
 
-<!-- 请将 your-email@example.com 替换为你的邮箱 -->
-📧 [Email](mailto:202481313606@m.scnu.edu.cn)
+📧 202481313606@m.scnu.edu.cn
 
 </div>
