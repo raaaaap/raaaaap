@@ -25,8 +25,6 @@
 
 > 学习路线 — 已完成 / 进行中 / 计划中
 
-</div>
-
 <!-- ✅ = 已完成, 🔄 = 进行中, ⬜ = 计划中 -->
 <!-- 请根据实际情况修改以下内容 -->
 
@@ -40,6 +38,8 @@
 | ⬜ | 分布式系统 | 待学习 |
 | ⬜ | MLOps | 待学习 |
 | ⬜ | Kubernetes | 待学习 |
+
+</div>
 
 ---
 
@@ -61,6 +61,6 @@
 ## Get in Touch.
 
 <!-- 请将 your-email@example.com 替换为你的邮箱 -->
-📧 [Email](mailto:your-email@example.com)
+📧 [Email](mailto:202481313606@m.scnu.edu.cn)
 
 </div>
