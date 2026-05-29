@@ -16,3 +16,27 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 </div>
+
+---
+
+<div align="center">
+
+## Learning Journey.
+
+> 学习路线 — 已完成 / 进行中 / 计划中
+
+</div>
+
+<!-- ✅ = 已完成, 🔄 = 进行中, ⬜ = 计划中 -->
+<!-- 请根据实际情况修改以下内容 -->
+
+| 状态 | 技术 | 说明 |
+|:---:|------|------|
+| ✅ | Python | 基础语法、Web 开发 |
+| ✅ | Git | 版本控制 |
+| 🔄 | Go | 语法学习中 |
+| 🔄 | PyTorch | 深度学习入门 |
+| 🔄 | Docker | 容器化基础 |
+| ⬜ | 分布式系统 | 待学习 |
+| ⬜ | MLOps | 待学习 |
+| ⬜ | Kubernetes | 待学习 |
