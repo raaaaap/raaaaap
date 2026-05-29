@@ -14,6 +14,7 @@
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Agent](https://img.shields.io/badge/-Agent-000000?style=flat-square)
 ![RAG](https://img.shields.io/badge/-RAG-4A90D9?style=flat-square)
+![LLM](https://img.shields.io/badge/-LLM-FF6F00?style=flat-square)
 
 </div>
 
