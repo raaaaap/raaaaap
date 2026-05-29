@@ -40,3 +40,16 @@
 | ⬜ | 分布式系统 | 待学习 |
 | ⬜ | MLOps | 待学习 |
 | ⬜ | Kubernetes | 待学习 |
+
+---
+
+<div align="center">
+
+## By the Numbers.
+
+<a href="https://github.com/raaaaap">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raaaaap&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaaaap&layout=compact&theme=default&hide_border=true" />
+</a>
+
+</div>
