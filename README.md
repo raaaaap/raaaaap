@@ -1,6 +1,6 @@
 <div align="center">
 
-# rapp
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58a6ff&center=true&vCenter=true&repeat=true&width=500&height=100&lines=Hi,+I'm+rapp+%F0%9F%91%8B)](https://github.com/raaaaap)
 
 **Student · Backend & AI Learner · Open Source Enthusiast**
 
@@ -14,5 +14,13 @@
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Agent](https://img.shields.io/badge/-Agent-000000?style=flat-square)
 ![RAG](https://img.shields.io/badge/-RAG-4A90D9?style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+
+📧 202481313606@m.scnu.edu.cn
 
 </div>
